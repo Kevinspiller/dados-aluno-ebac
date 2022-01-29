@@ -1,12 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Kevin
+-Profissão: Analista de projetos
+-Cidade: Chapecó
+-O que faz nas horas vaga: estudo, academia e sair com amigos.
+-Feedback sobre o curso Qualidade de Software: Como nunca tinha estudado esta área, está sendo muito bom para ter uma visão geral sobre toda a área, espero aprender muito na área de automação de testes e testes de API
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma é muito fácil de ser utilizada e encontrar as informações necessárias.
 
-Obrigado!!!
 
 
